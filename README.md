@@ -1,4 +1,4 @@
-## Hi there , i am papa pig
+## Hi there ,
 - 🔭 I’m currently working on tradeveil
 - 🌱 I’m currently learning c language,javascript.
 - 👯 I’m looking to collaborate on some coding projects in groups.
